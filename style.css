@@ -42,6 +42,7 @@ body{
     display:none;
     font-size:28px;
     cursor:pointer;
+    color:violet;
 }
 .menu{
     display:flex;
